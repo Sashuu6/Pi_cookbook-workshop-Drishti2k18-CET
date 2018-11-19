@@ -15,7 +15,6 @@
 // Revision: 1
 // Variables used
 // relay - integer - D0 (GPIO4)
-// indiLed - integer - D1 (GPIO17)
 // vin - boolean - on/off states
                                                                                            
 int relay = D0; //pin to which relay is connected
